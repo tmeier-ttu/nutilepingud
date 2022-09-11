@@ -1,2 +1,0 @@
-# nutilepingud
-School project
